@@ -1,0 +1,3 @@
+name: PDGHAntiMacros
+main: net.eq2online.permissions.ReplicatedPermissionsPlugin
+version: 1.0

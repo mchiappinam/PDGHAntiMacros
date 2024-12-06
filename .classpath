@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ClientPermissionsLib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Matheus/Desktop/EPL/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matheus/Desktop/EPL/spigot 1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matheus/Desktop/EPL/craftbukkit-1.3.1-R2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
